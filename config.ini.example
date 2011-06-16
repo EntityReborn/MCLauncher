@@ -1,0 +1,5 @@
+[General]
+username = User
+password = Pass
+hashcache = None # Don't touch this, automatically updated
+appdata = None # Leave as None to use %APPDATA%, set to a name to use a specific dir to portablize
